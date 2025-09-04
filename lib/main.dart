@@ -8,7 +8,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter layout: Nama dan NIM Anda',
+      title: 'Flutter layout: Anisa 362458302145',
       home: Scaffold(
         appBar: AppBar(
           title: const Text('Flutter layout demo'),
