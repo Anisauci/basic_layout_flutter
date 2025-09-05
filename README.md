@@ -8,6 +8,7 @@
 Seperti biasa yaitu klik 'shift+crtl+P' secara bersamaan untuk membuat projek baru dengan nama layout_flutter.
 
 ### Langkah 2: Buka filelib/main.dart
+
 Mengganti kode dengan kode sebagai berikut:
 ![Screenshot kode text title](images/1.02.png)
 
@@ -20,9 +21,7 @@ dan jika dirunning di emulator hasilnya akan jadi seperti gambar di bawah ini
 Tambahkan kode ini pada bagian atas metode build() di dalam kelas MyApp
 ![Screenshot title row](images/1.04.png)
 
-lalu saya mengisi bagian kodingan yang kosong dengan perintah yang ada di modul yang diberikan
-
-kemudian ganti isi body text 'Hello World' dengan variabel titleSection
+lalu saya mengisi bagian kodingan yang kosong dengan perintah yang ada di modul yang diberikan kemudian ganti isi body text 'Hello World' dengan variabel titleSection
 ![Srcreenshot body](images/1.05.png)
 body text hello world jadikan comen agar dia tidak jalan ketika dirunning
 
