@@ -46,6 +46,10 @@ Tambahkan variabel buttonSection ke dalam body
 
 ![Screenshot variabel button section](images/2.03.png)
 
+### Hasil
+
+![Screenshot hasil praktikum 2](images/02.png)
+
 
 ## PRAKTIKUM 3: Implementasi text section
 
@@ -58,6 +62,10 @@ Tentukan bagian teks sebagai variabel. Masukkan teks ke dalam Container dan tamb
 Tambahkan widget variabel textSection ke dalam body
 
 ![Screenshot variabel tect section](images/2.03.png)
+
+### Hasil
+
+![Screenshot hasil praktikum 3](images/03.png)
 
 
 ## PRAKTIKUM 4: Implementasi image section
