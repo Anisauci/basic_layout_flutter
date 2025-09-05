@@ -29,6 +29,10 @@ lalu saya mengisi bagian kodingan yang kosong dengan perintah yang ada di modul 
 
 body text hello world jadikan comen agar dia tidak jalan ketika dirunning
 
+### Hasil
+
+![Screenshot hasil praktikum 1](images/01.2.png)
+
 ## PRAKTIKUM 2: Implementasi Button Row
 
 ### Langkah 1: Buat method Column _buildButtonColumn
