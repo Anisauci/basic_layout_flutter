@@ -65,7 +65,7 @@ class MyApp extends StatelessWidget {
         'Pulau Merah adalah sebuah pantai yang terletak di Banyuwangi, Jawa Timur, Indonesia. '
         'Pantai ini terkenal dengan pasirnya yang berwarna merah muda dan ombaknya yang cocok untuk berselancar. '
         'Selain itu, Pulau Merah juga memiliki pemandangan alam yang indah dengan latar belakang perbukitan hijau dan laut biru yang luas. '
-        'Pantai ini menjadi destinasi wisata populer bagi wisatawan lokal maupun mancanegara.\ '
+        'Pantai ini menjadi destinasi wisata populer bagi wisatawan lokal maupun mancanegara.\n\n'
         'Anisa Suci Rahmawati (362458302145)',
         softWrap: true,
       ),
